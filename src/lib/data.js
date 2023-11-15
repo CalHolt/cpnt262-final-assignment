@@ -5,23 +5,23 @@ export let galleryInformation = [{
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/autumn-leaves.jpg"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/desert-starry-night.jpg"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/laptop-with-mouse.jpg"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/mountains.jpg"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/ocean-shore.jpg"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
