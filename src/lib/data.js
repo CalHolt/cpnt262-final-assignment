@@ -44,3 +44,6 @@ altText: "sas mate playing the guitar on green hill with rainbow in the backgrou
   cardImg: "../images/submission-3.jpg",
   altText: "sas mate in funny orange hat"
 }];
+
+export let reviewInfo = [{reviewName: "Bill W.",
+review: "SkatePaint, notably represented by Sarah, exceeded expectations with a patient, knowledgeable, and empathetic approach. The team's genuine care, personalized assistance, and commitment to customer satisfaction set a commendable standard in an era often characterized by impersonal service."}]
