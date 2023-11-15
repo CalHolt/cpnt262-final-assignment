@@ -12,7 +12,7 @@ export let galleryInformation = [{
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/desert-starry-night.jpg", 
- ltText: "desert at dusk"},
+ altText: "desert at dusk"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
