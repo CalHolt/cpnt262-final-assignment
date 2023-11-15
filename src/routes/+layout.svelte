@@ -3,6 +3,12 @@
   import Header from "../lib/components/Header.svelte";
   import Footer from "../lib/components/Footer.svelte";
 </script>
-<Header />
+<main >
+  <Header />
+</main>
+
 <slot />
-<Footer />
+
+<div class="mt-auto">
+  <Footer />
+</div>
