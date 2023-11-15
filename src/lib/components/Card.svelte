@@ -1,8 +1,4 @@
-<header>
-  <h1>
-    Cpnt-262-Final Project
-  </h1>
-</header>
+scr
 
 <Footer>
   Copyright 2023 | Cal and Kevin Project
