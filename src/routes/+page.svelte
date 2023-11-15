@@ -1,3 +1,7 @@
+<script>
+  import ReviewCard from "../lib/components/ReviewCard.svelte";
+  import { reviewInfo } from "../lib/data";
+</script>
 <body>
 <header class="bg-slate-700 ">
   <h1 class="text-5xl text-white">Design a deck today</h1>
@@ -8,9 +12,14 @@
     </span>
     </button>
 </header>
-  <section>
-<h2 class="text-3xl text-center py-2">- Our Review's -</h2>
+<h2 class="text-3xl text-center py-2 ">- Our Review's -</h2>
+<div class="flex justify-center">
+  <section class = "p-6 grid grid-cols-1 gap-4 justify-items-center align-items-center md:grid-cols-2 lg:grid-cols-3">
+    {#each reviewInfo as review}
+<ReviewCard {...review}/>
+{/each}
   </section>
+</div>
 </body>
 <style>
   body {
