@@ -31,13 +31,16 @@ altText: "rock being hit by waves on beach"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/submission.jpg",
+altText: "sas mate holding onto tree with sunset in background"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"},
+  cardImg: "../images/submission-2.jpg",
+altText: "sas mate playing the guitar on green hill with rainbow in the background"},
   {
     cardTitle: "hello world",
   cardDes: "whats going on dude",
-  cardImg: "../images/camera.jpg"
+  cardImg: "../images/submission-3.jpg",
+  altText: "sas mate in funny orange hat"
 }];
