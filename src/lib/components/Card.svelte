@@ -1,6 +1,6 @@
 <script>
   export let cardTitle;
-  export let cardDescription;
+  export let cardDes;
   export let cardImg; 
   export let cardLink;
   export let altText;
@@ -12,7 +12,7 @@
   <h3 class="text-white py-2"><strong>{cardTitle}</strong></h3>
  
   <p class="text-white py-2">
-    <em>{cardDescription}</em>
+    <em>{cardDes}</em>
   </p>
 </a>
 </figure> 
