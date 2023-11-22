@@ -1,44 +1,53 @@
 export let galleryInformation = [{
+  slug: "/gallery/camera",
   cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/camera.jpg", 
  altText: "old camera on piano"},
   {
+    slug: "/gallery/leaves",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/autumn-leaves.jpg",
   altText: "yellow and orange leaves on the ground"},
   {
+    slug: "/gallery/desert",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/desert-starry-night.jpg", 
  altText: "desert at dusk"},
   {
+    slug: "/gallery/laptop",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/laptop-with-mouse.jpg",
  altText: "laptop on table"},
   {
+    slug: "/gallery/mountain",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/mountains.jpg",
  altText: "mountaintop at midday"},
   {
+    slug: "/gallery/beach",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/ocean-shore.jpg",
 altText: "rock being hit by waves on beach"},
   {
+    slug: "/gallery/sassy1",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/submission.jpg",
 altText: "sas mate holding onto tree with sunset in background"},
   {
+    slug: "/gallery/sassy2",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/submission-2.jpg",
 altText: "sas mate playing the guitar on green hill with rainbow in the background"},
   {
+    slug: "/gallery/sassy3",
     cardTitle: "hello world",
   cardDes: "whats going on dude",
   cardImg: "../images/submission-3.jpg",

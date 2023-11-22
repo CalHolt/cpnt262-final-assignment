@@ -6,10 +6,10 @@
           <a href="/gallery">Gallery</a>
       </li>
       <li class="text-white">
-        <a href="/store">Store</a>
+        <a href="/">Store</a>
       </li>
       <li class="text-white">
-        <a href="/contact">Contact</a>
+        <a href="/">Contact</a>
       </li>
     </ul>
   </nav>
