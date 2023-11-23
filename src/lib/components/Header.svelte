@@ -5,12 +5,6 @@
       <li class="text-white">
           <a href="/gallery">Gallery</a>
       </li>
-      <li class="text-white">
-        <a href="/">Store</a>
-      </li>
-      <li class="text-white">
-        <a href="/">Contact</a>
-      </li>
     </ul>
   </nav>
 </header>
