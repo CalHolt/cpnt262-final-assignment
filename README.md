@@ -1,38 +1,28 @@
-# create-svelte
+# CPNT 262 | CPNT 262 Final Project - Multi-page Website with Gallery 
+ 
+## Authors: 
+### Cal Holt, Kevin Fula
+## Images:
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+### Hero image-
+https://unsplash.com/photos/photo-of-blue-multicolored-skateboard-9N3rS-xLfkI
 
-## Creating a project
+Card Images from Lorem Picsum
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Attributions:
+- 
+## Images~
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Hero image-
+### Unsplash
+https://unsplash.com/photos/photo-of-blue-multicolored-skateboard-9N3rS-xLfkI
 
-## Developing
+***Card Images were from Lorem Picsum***
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Search Queries 
+### "tailwind image styling"
+Used for looking for how to style the images and heading for the cards
+### "tailwind background image"
+Figuring out image sizing for each picture on the card
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
