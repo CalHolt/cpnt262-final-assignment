@@ -1,3 +1,7 @@
+import dayjs from "dayjs";
+const date1 = dayjs("2023-01-17")
+const date2 = dayjs("2023-06-14")
+const date3 = dayjs("2023-07-11")
 export let galleryInformation = [{
   slug: "camera",
   cardTitle: "Into the lens",
@@ -55,9 +59,10 @@ altText: "sas mate playing the guitar on green hill with rainbow in the backgrou
 }];
 
 export let reviewInfo = [{reviewName: "Bill W.",
-review: "SkatePaint, notably represented by Sarah, exceeded expectations with a patient, knowledgeable, and empathetic approach. The team's genuine care, personalized assistance, and commitment to customer satisfaction set a commendable standard in an era often characterized by impersonal service."},{
-  reviewName: "Jason M.", review: "Such an amazing place to get a custom board! Makes gift shopping so easy"
+review: "SkatePaint, notably represented by Sarah, exceeded expectations with a patient, knowledgeable, and empathetic approach. The team's genuine care, personalized assistance, and commitment to customer satisfaction set a commendable standard in an era often characterized by impersonal service.", date: date1},
+{
+  reviewName: "Jason M.", review: "Such an amazing place to get a custom board! Makes gift shopping so easy", date: date2
 },
 {
-  reviewName: "Jimothy P.", review: "great experience 10/10. I have been skating for years and have always wanted my own custom deck. I now own a 1/1 skateboard that is amazing quality"
+  reviewName: "Jimothy P.", review: "great experience 10/10. I have been skating for years and have always wanted my own custom deck. I now own a 1/1 skateboard that is amazing quality", date: date3,
 }]
