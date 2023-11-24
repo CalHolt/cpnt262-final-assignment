@@ -41,15 +41,15 @@ altText: "rock being hit by waves on beach"},
   cardImg: "../images/submission.jpg",
 altText: "sas mate holding onto tree with sunset in background"},
   {
-    slug: "",
+    slug: "sassy2",
     cardTitle: "Nature valley",
   cardDes: "Music makes anything better",
   cardImg: "../images/submission-2.jpg",
 altText: "sas mate playing the guitar on green hill with rainbow in the background"},
   {
     slug: "sassy3",
-    cardTitle: "hello world",
-  cardDes: "whats going on dude",
+    cardTitle: "Fashion crisis",
+  cardDes: "Eye for eye",
   cardImg: "../images/submission-3.jpg",
   altText: "sas mate in funny orange hat"
 }];
