@@ -3,7 +3,13 @@
 ## Authors: 
 ### Cal Holt, Kevin Fula
 
+# Netlify Link
+https://luminous-khapse-458d0e.netlify.app/
+
 # Attributions:
+
+## Alert function for home button~
+https://svelte.dev/examples/event-modifiers
 
 ## Images~
 
