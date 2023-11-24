@@ -2,16 +2,9 @@
  
 ## Authors: 
 ### Cal Holt, Kevin Fula
-## Images:
-
-### Hero image-
-https://unsplash.com/photos/photo-of-blue-multicolored-skateboard-9N3rS-xLfkI
-
-Card Images from Lorem Picsum
-
 
 ## Attributions:
-- 
+
 ## Images~
 
 ### Hero image-
